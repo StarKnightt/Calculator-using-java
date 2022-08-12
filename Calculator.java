@@ -164,4 +164,4 @@ public class Calculator implements ActionListener{
 		}
 	}
 }
-// Have a nice day.
+// Have a Wonderful day.
