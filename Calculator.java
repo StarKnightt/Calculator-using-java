@@ -6,8 +6,6 @@ import java.awt.*;
 import java.awt.event.*;
 
 public class Calculator implements ActionListener{
-	
-
 	JFrame frame;
 	JTextField textfield;
 	JButton[] numberButtons = new JButton[10];
@@ -15,12 +13,9 @@ public class Calculator implements ActionListener{
 	JButton addButton,subButton,mulButton,divButton;
 	JButton decButton, equButton, delButton, clrButton, negButton;
 	JPanel panel;
-	
 	Font myFont = new Font("Ink Free",Font.BOLD,30);
-	
 	double num1=0,num2=0,result=0;
 	char operator;
-
 	Calculator(){
 		
 		frame = new JFrame("Calculator");
@@ -98,15 +93,12 @@ public class Calculator implements ActionListener{
 		frame.add(textfield);
 		frame.setVisible(true);
 	}
-	
 	public static void main(String[] args) {
-		
 		Calculator calc = new Calculator();
 	}
 	
 	@Override
 	public void actionPerformed(ActionEvent e) {
-		
 		for(int i=0;i<10;i++) {
 			if(e.getSource() == numberButtons[i]) {
 				textfield.setText(textfield.getText().concat(String.valueOf(i)));
@@ -172,5 +164,4 @@ public class Calculator implements ActionListener{
 		}
 	}
 }
-
 // Have a nice day.
