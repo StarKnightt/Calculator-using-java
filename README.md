@@ -10,3 +10,14 @@ Run the Calculator.java file to start the application.
 ## USAGE -
 
 The calculator application can perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The user can enter two numbers and choose which operation to perform. The operation's outcome will be displayed on the screen.
+
+
+## CONTRIBUTING -
+
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+1. Fork this repository. 
+2. Create a new branch with your changes: ` git checkout -b my-feature-branch.`
+3. Commit your changes: `git commit -m "Add my feature".`
+4. Push to the branch: `git push origin my-feature-branch.`
+5. Create a new pull request and describe your changes.
