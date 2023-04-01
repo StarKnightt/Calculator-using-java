@@ -3,9 +3,10 @@ This is a simple calculator application written in the Java programming language
 
 ## INSTALLATION -
 
-Clone this repository to your local machine using the command:https://github.com/StarKnightt/Calculator-using-java.git.
-Open the project in your favorite Java IDE, such as Eclipse or IntelliJ IDEA.
-Run the Calculator.java file to start the application.
+1.Clone this repository to your local machine using the command:https://github.com/StarKnightt/Calculator-using-java.git. 
+
+2. Open the project in your favorite Java IDE, such as Eclipse or IntelliJ IDEA.
+3. Run the Calculator.java file to start the application.
 
 ## USAGE -
 
@@ -21,3 +22,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 3. Commit your changes: `git commit -m "Add my feature".`
 4. Push to the branch: `git push origin my-feature-branch.`
 5. Create a new pull request and describe your changes.
+
+## CREDITS- 
+
+This project was built using Java programming language and the Java Swing GUI toolkit.
