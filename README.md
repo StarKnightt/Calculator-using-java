@@ -26,7 +26,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## CREDITS- 
 
-This project was built using Java programming language and the Java Swing GUI toolkit.
+This project was inspired by a tutorial on Java GUI Calculator by @BroCode.
 
 ## CONTACT -
 
