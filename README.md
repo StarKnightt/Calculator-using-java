@@ -26,7 +26,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## CREDITS- 
 
-This project was inspired by a tutorial on Java GUI Calculator by @BroCode.
+This project was inspired by a tutorial on Java GUI Calculator by @BroCode. Check out his videos to get more information about this project. 
 
 ## CONTACT -
 
