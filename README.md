@@ -3,7 +3,6 @@ This is a simple calculator application written in the Java programming language
 
 
 ## INSTALLATION -
-
 1.Clone this repository to your local machine using the command:https://github.com/StarKnightt/Calculator-using-java.git. 
 
 2. Open the project in your favorite Java IDE, such as Eclipse or IntelliJ IDEA.
@@ -25,9 +24,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Create a new pull request and describe your changes.
 
 ## CREDITS- 
-
 This project was inspired by a tutorial on Java GUI Calculator by @BroCode. Check out his videos to get more information about this project. 
 
 ## CONTACT -
-
 For any questions or inquiries, please contact StarKnightt at prasenjitt4e@gmail.com
