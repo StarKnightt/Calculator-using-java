@@ -95,7 +95,6 @@ public class Calculator implements ActionListener{
 	public static void main(String[] args) {
 		Calculator calc = new Calculator();
 	}
-	
 	@Override
 	public void actionPerformed(ActionEvent e) {
 		for(int i=0;i<10;i++) {
